@@ -95,3 +95,16 @@ aside p{
     display: flex;
     justify-content: space-between;
 }
+
+.hr2{
+    width: 20vw;
+    background-color: black;
+    outline: none;
+    border: 0px;
+    height: 3px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
