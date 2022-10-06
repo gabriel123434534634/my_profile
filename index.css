@@ -5,7 +5,7 @@ body{
     background-color: yellow;
 }
 .body{
-    max-width: 50vw;
+    max-width: 80vw;
     word-wrap: break-word;
     overflow-x: hidden;
     overflow-y: hidden;
@@ -67,13 +67,13 @@ header{
         width: 64vw;
     }
     100%{
-        width: 80vw;
+        width: 90vw;
     }
 }
 
 header hr{
     position: relative;
-    width: 80vw;
+    width: 90vw;
     background-color: black;
     outline: none;
     border: 0px;
